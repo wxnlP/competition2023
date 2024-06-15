@@ -1,16 +1,3 @@
----
-title: pic
-date: 2024-02-17 15:03:04
-tags: 
-- STM32
-- 树莓派
-categories: 
-- 工创赛
-comments: false
-toc: true
-top: true
----
-
 ## 1. 内容简介
 
 ```
