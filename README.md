@@ -8,7 +8,9 @@
 --Model 建模文件
 ```
 
-[中文文档📚](https://tonmoon.top/study/competition/1/)
+[中文文档📑](https://tonmoon.top/study/competition/1/) | [yolov5环境配置📑](https://tonmoon.top/study/yolov5/1/) | [YOLOv8链接📑](https://tonmoon.top/study/YOLOv8/YOLOv8-1/)
 
-[yolov5环境配置](https://tonmoon.top/study/yolov5/1/)
+
+
+
 
